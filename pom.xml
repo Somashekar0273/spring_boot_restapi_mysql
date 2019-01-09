@@ -9,10 +9,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springboot.restapi</groupId>
-	<artifactId>006SpringBootCrudRestAPI</artifactId>
+	<artifactId>007SpringBootCrudRestAPI_MYSQL</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>006SpringBootCrudRestAPI</name>
-	<description>Demo project for Spring Boot REST API</description>
+	<name>007SpringBootCrudRestAPI_MYSQL</name>
+	<description>Demo project for Spring Boot REST API use mysql</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -61,4 +61,5 @@
 		</plugins>
 	</build>
 
+	<packaging>war</packaging>
 </project>
